@@ -1,7 +1,7 @@
 import os
 from deepface import DeepFace
 import logging
-
+abc
 # Disable TensorFlow logging to keep the console clean and focused on AI results
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 
