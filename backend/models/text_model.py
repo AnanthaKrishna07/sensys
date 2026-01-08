@@ -1,5 +1,4 @@
 from transformers import pipeline
-abc
 class TextAnalyzer:
     def __init__(self):
         # We use 'bertweet' - it is a BERT model specifically trained on social media text
