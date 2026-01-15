@@ -1,0 +1,9 @@
+flask
+flask-cors
+pymongo
+transformers
+torch
+tensorflow
+opencv-python
+pandas
+numpy
