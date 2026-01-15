@@ -3,7 +3,7 @@ from deepface import DeepFace
 import logging
 # Disable TensorFlow logging to keep the console clean and focused on AI results
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
-
+abc
 class ImageAnalyzer:
     def __init__(self):
         """

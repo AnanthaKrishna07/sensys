@@ -1,6 +1,6 @@
 import random
 import datetime
-abc
+
 class BotEngine:
     def __init__(self):
         # Sample users for the simulation

@@ -7,7 +7,7 @@ class TextAnalyzer:
             "sentiment-analysis", 
             model="finiteautomata/bertweet-base-sentiment-analysis"
         )
-
+abc
     def analyze(self, text):
         result = self.model(text)[0]
         # Mapping labels: POS -> Positive, NEG -> Negative, NEU -> Neutral
