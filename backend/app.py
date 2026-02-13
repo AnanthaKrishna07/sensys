@@ -332,4 +332,4 @@ if __name__ == '__main__':
     print("   - API URL: http://localhost:5000")
     print("   - Status: Fusion Active (Text + Vision + Audio)")
     print("="*50 + "\n")
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5000) aa
